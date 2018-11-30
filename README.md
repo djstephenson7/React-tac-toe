@@ -1,3 +1,13 @@
+# React-tac-toe
+
+A project for me to practice my React skills.
+
+### Setup and Installation
+
+To install this program on your machine, simply fork this repo, click 'Clone or download' and copy the SSH key. On your machine, cd into the directory you want to install the program in, type in 'git clone' and paste the SSH key.
+
+You may require Node.js to be installed on your machine before you can run the program. To download Node.js, click [here](https://nodejs.org/en/download/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
